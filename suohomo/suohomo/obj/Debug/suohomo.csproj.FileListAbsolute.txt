@@ -1,0 +1,14 @@
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\bin\Debug\suohomo.exe.config
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\bin\Debug\suohomo.exe
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\bin\Debug\suohomo.pdb
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\obj\Debug\suohomo.csprojResolveAssemblyReference.cache
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\obj\Debug\suohomo.csproj.CoreCompileInputs.cache
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\obj\Debug\suohomo.exe
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\suohomo\obj\Debug\suohomo.pdb
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\bin\Debug\suohomo.exe.config
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\bin\Debug\suohomo.exe
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\bin\Debug\suohomo.pdb
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\obj\Debug\suohomo.csprojResolveAssemblyReference.cache
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\obj\Debug\suohomo.csproj.CoreCompileInputs.cache
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\obj\Debug\suohomo.exe
+C:\Users\Hamppu\Documents\hampun_omat_ohjelmat\suohomo\suohomo\obj\Debug\suohomo.pdb
