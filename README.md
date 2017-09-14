@@ -1,2 +1,2 @@
 # suohomo
-Mun eka ohjelma jeejee
+My first program.
